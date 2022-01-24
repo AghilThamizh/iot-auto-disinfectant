@@ -3,7 +3,7 @@ IoT Based Auto-Disinfectant Sprinkler System for Large  Enclosed Space
 
 COVID-19 created the necessity of sanitizing every corner to keep life 
 secured. In conventional means, sanitization is handled by sprinklers in a variety 
-of shapes and sizes. These sprinklers are either human controlled or machine controlled and does the job by placing them on the floor. The conventional sprinkling system is risky and exerts tremendous pressure on the working personnel; 
+of shapes and sizes. These sprinklers are either human controlled or machine controlled and does the job by placing them on the floor. The conventional sprinkling system is risky and exerts tremendous pressure on the working personnel; 
 also, it does not assure of covering the entire space intended-for. The proposed 
 auto-sprinkler overcomes these limitations by attaching it to the roof/ceiling and 
 performs the process of sprinkling the disinfectant solution in mist form while 
